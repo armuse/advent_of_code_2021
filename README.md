@@ -2,4 +2,4 @@ Advent of Code 2021
 
 Trying to figure out coding on windows since my unix machine died... currently it's all in jupyter notebooks
 
-Current stars: 13/50
+Current stars: 15/50
